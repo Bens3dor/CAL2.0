@@ -15,7 +15,7 @@
 Enfoque ágil ( Kanban) — "Elegi una metodología ágil (Kanban) porque,  permite trabajar mediante un proceso de prueba y error e iteraciones cortas, lo cual nos ayuda a entender y corregir el código conforme avanzamos. Además, las User Stories de la Calculadora se prestan para construir la aplicación por partes (primero la interfaz y luego las operaciones), y el uso del tablero en GitHub Projects nos facilita visualizar y repartir el progreso del equipo en tiempo real."
 
 ## Justificación 
-El proyecto SOLI-DO nace ante la necesidad de proveer una herramienta de cálculo accesible, precisa e intuitiva para resolver operaciones matemáticas cotidianas de forma inmediata.
+El proyecto CAL2.0 nace ante la necesidad de proveer una herramienta de cálculo accesible, precisa e intuitiva para resolver operaciones matemáticas cotidianas de forma inmediata.
 La elección de una calculadora básica como caso de estudio se justifica por su capacidad para estructurar un flujo claro de captura, procesamiento y despliegue de datos. Para abordar su construcción bajo un margen de tiempo acotado y un equipo de 3 colaboradores, se adoptó la metodología ágil Kanban. Este enfoque se justifica por tres razones principales:
 Modularidad: Permite segmentar el desarrollo partiendo de las Historias de Usuario, abordando primero la maquetación de la interfaz y posteriormente la lógica funcional (operaciones y borrado).
 Adaptabilidad: Favorece ciclos cortos de evaluación y ajuste de código mediante prueba y error, reduciendo el impacto de eventuales fallos.

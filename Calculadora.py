@@ -395,4 +395,4 @@ if __name__ == "__main__":
     app = Calculadora(root)
     root.mainloop()
     
-#Issue 8
+#Issue 7
